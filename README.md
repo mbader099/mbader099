@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Muhana
+- 👨‍🎓 I;m graduating from George Mason University with a degree in Computer Science  
 - 👀 I’m interested in Ethereum Blockchain Development 
 - 🌱 I’m currently learning everything 
-- 💞️ I’m looking to for a job in the field 
+- 👨‍💻I’m looking to for a job in the field 
 - 📫 How reach me at m.bader02@gmail.com
 
 <!---
