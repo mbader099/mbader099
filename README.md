@@ -27,6 +27,6 @@ Terraform and CI/CD. Computer Science, George Mason University.
 
 #### Currently
 
-Looking for engineering roles working on **web-scale data for ML**: crawling, extraction, deduplication, data quality.
+Looking for engineering roles in Cloud and working on **web-scale data for ML**: crawling, extraction, deduplication, data quality.
 
 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
